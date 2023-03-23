@@ -1,0 +1,14 @@
+c:\users\i40268\source\repos\Ejercicio1_Solution\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+c:\users\i40268\source\repos\Ejercicio1_Solution\Ejercicio1\bin\Debug\Ejercicio1.exe
+c:\users\i40268\source\repos\Ejercicio1_Solution\Ejercicio1\bin\Debug\Ejercicio1.pdb
+c:\users\i40268\source\repos\Ejercicio1_Solution\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+c:\users\i40268\source\repos\Ejercicio1_Solution\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+c:\users\i40268\source\repos\Ejercicio1_Solution\Ejercicio1\obj\Debug\Ejercicio1.exe
+c:\users\i40268\source\repos\Ejercicio1_Solution\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio1\obj\Debug\Ejercicio1.pdb

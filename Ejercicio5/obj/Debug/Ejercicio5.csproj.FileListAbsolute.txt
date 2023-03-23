@@ -1,0 +1,6 @@
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\i40268\source\repos\Laboratorio_CSharp_Sintaxis\Ejercicio5\obj\Debug\Ejercicio5.pdb
